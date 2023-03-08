@@ -1,0 +1,46 @@
+@import "https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap";
+.par
+{
+	font-size:22px;
+line-height:1.5;
+}
+image1,image2,image3 {
+display: block;
+margin: auto;
+border-radius: 100%;
+border: 3px solid white;
+}
+figcaption
+{
+	color:white; font-size:20px;
+}
+h1
+{
+	color:white;
+}
+p
+{
+	color:white;
+}
+.cont
+{
+	font-size:21px;
+	padding-left:40px;
+	padding-top:40px;
+	padding-right:40px;
+	padding-bottom:20px;
+	border:5px outset white;
+	width:400px;
+}
+.button {
+  background-color: DodgerBlue;
+  border:none;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
